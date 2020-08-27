@@ -35,20 +35,18 @@ p{
 div{
 	margin: 10px;
 	background-color: #AAAAAA;
-	margin: 20px;
+	margin: 15px;
 	border: 1px solid black;
 }
 @media(min-width: 992px){
 	.col-lg-4{
 		float: left;
 		width: 30%;
-		margin: 15px;
 	}
 }
 @media(min-width: 768px) and (max-width: 991px){
 	.col-md-6{
 		float: left;
 		width: 46%;
-		margin: 15px;
 	}
 }
